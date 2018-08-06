@@ -1,5 +1,6 @@
 {
-    "name": "aws/aws-sdk-php",
+    "name": "domydream/aws-sdk-php",
+    "version": "3.0",
     "homepage": "http://aws.amazon.com/sdkforphp",
     "description": "AWS SDK for PHP - Use Amazon Web Services in your PHP project",
     "keywords": ["aws","amazon","sdk","s3","ec2","dynamodb","cloud","glacier"],
